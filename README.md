@@ -14,8 +14,8 @@
 ### 🌟 GitHub stats:
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=ThanhAT177&theme=blue-green&show_icons=true&hide=contribs,prs&ring_color=#00FFFF />
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=ThanhAT177&theme=dark&hide_border=true width="37.2%" /> <br/>
+  <img src=https://github-readme-stats.vercel.app/api?username=ThanhAT177&theme=blue-green&show_icons=true&hide=contribs,prs&ring_color=#00FFFF width="420" height="190" />
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=ThanhAT177&theme=dark&hide_border=true width="420" height="190" /> <br/>
 </p>
 
 
