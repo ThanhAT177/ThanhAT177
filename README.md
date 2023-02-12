@@ -1,4 +1,4 @@
-<p align="left"> <img src=https://visitcount.itsvg.in/api?id=ThanhAT177&icon=9&color=0/> </p>
+<p align="left"> <img src=https://visitcount.itsvg.in/api?id=ThanhAT177&icon=9&color=0/ alt=https://visitcount.itsvg.in> </p>
 
 ## 🤗 GitHub stats
 <p align="center">
