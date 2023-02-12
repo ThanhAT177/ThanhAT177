@@ -1,4 +1,4 @@
-##@font-face {
+@font-face {
   font-family: 'fontello';
   src: url('../font/fontello.eot?24062548');
   src: url('../font/fontello.eot?24062548#iefix') format('embedded-opentype'),
