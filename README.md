@@ -9,5 +9,5 @@
 ## 👨🏻‍💻 Languages and Tools
 
 ## 🏆 GitHub Trophies
-<p align="center"> <img https://github-profile-trophy.vercel.app/?username=ThanhAT177&theme=darkhub&no-frame=false&no-bg=false&margin-w=4/> </p>
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=ThanhAT177&theme=darkhub&no-frame=false&no-bg=false&margin-w=4/> </p>
 
