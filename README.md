@@ -10,7 +10,7 @@
 ## 👨🏻‍💻 Languages and Tools
 
 <a href="http://www.faqs.org/faqs/C-faq/faq/index.html//" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" height="40"/> </a>
-<a href="http://www.parashift.com/c%2B%2B-faq-lite//" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/> </a>
+<a href="https://isocpp.org//" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/> </a>
 
 ## 🏆 GitHub Trophies
 
