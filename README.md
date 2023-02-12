@@ -1,4 +1,4 @@
-<p align="left"> <img src=https://visitcount.itsvg.in/api?id=ThanhAT177&icon=9&color=0/ alt=https://visitcount.itsvg.in> </p>
+
 
 ## 🤗 GitHub stats
 <p align="center">
@@ -7,4 +7,4 @@
 </p>
 
 ## 👨🏻‍💻 Languages and Tools
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhAT177&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact /> <br/> </p>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/c.png"></code>
