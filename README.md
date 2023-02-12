@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=ThanhAT177&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ThanhAT177&icon=5&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ThanhAT177 alt=ThanhAT177/> </p>
 
 ## 🤗 GitHub stats
